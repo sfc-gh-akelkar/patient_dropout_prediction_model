@@ -29,7 +29,7 @@ The notebook uses existing training data from:
 This table should contain the following columns:
 - `age`: Patient age (numeric)
 - `gender`: Patient gender (MALE/FEMALE)
-- `patient_dropout`: Dropout indicator (1 = dropout, 0 = completed)
+- `patient_dropped`: Dropout indicator (1 = dropout, 0 = completed)
 
 ## Notebook Structure
 
